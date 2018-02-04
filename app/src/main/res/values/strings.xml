@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Study Case</string>
+    <string name="header">DINNER</string>
+    <string name="menu_makanan">Menu Makanan</string>
+    <string name="porsi_makanan">Porsi Makanan</string>
+    <string name="btn_eatbus">Eatbus</string>
+    <string name="btn_abnormal">Abnormal</string>
+    <string name="sama_milea">Sama Milea</string>
+    <string name="porsi" />
+    <string name="menu" />
+    <string name="menu_makan">Menu Makanan</string>
+    <string name="porsi_makan">Porsi Makanan</string>
+
+
+    <string name="dinner">DINNER</string>
+    <string name="dimana"></string>
+    <string name="judul_menu">Menu</string>
+    <string name="nama_menu"></string>
+    <string name="judul_porsi">Porsi</string>
+    <string name="jumlah_porsi"></string>
+    <string name="harga">Harga</string>
+    <string name="uang_osas"></string>
+    <string name="fungsi_nya">Fungsi</string>
+
+</resources>
